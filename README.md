@@ -4,22 +4,21 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+February 2018
 
 ### Student Name:  
-(First and Last Name)
+M. Raven Townsend
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This project allowed us to learn the basic concepts of JavaScript and how to start working with it in our webpages. 
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+https://mtownsend108.github.io/lesson4_javascript1/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. The HTML document and the JavaScript document must be properly formatted to communicate effectively with each other.
+2. Use naming conventions that are easy to understand and stick with a solid pattern when writing JavaScript variables.
+3. Master the basic fundamentals of JavaScript before trying more complex approaches.
 
 
 
